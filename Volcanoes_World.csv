@@ -1,0 +1,916 @@
+OBJECTID_1,OBJECTID,NAME,ELEV,TYPE,FIPS_CNTRY,COUNTRY,x,y
+1,1,Mesa Nevada deHerveo,5590,Solfatara stage,CO,Colombia,-75.46637465,5.301321249
+2,2,Nevado del Ruiz,5400,Active,CO,Colombia,-75.3663743,4.884675717
+3,3,Nevado del Tolima,5215,Active,CO,Colombia,-75.36637446,4.65135474
+4,4,Machin,2750,Solfatara stage,CO,Colombia,-75.36637463,4.151379334
+5,5,Nevado del Huila,5750,Solfatara stage,CO,Colombia,-75.98305121,3.001440588
+6,6,Purace,4600,Active,CO,Colombia,-76.38306213,2.368140053
+7,7,Sotara,4580,Potentially active,CO,Colombia,-76.61640595,2.218145614
+8,8,Dona Juana,4250,Active,CO,Colombia,-76.93307198,1.518182347
+9,9,Galeras,4482,Active,CO,Colombia,-77.29975694,1.218198472
+10,10,Azufral de Tuquerres,4070,Solfatara stage,CO,Colombia,-77.68309054,1.084871174
+11,11,Cumbal,4764,Active,EC,Ecuador,-77.88309958,-0.98169268
+12,12,Reventader,3485,Active,EC,Ecuador,-77.66642023,-0.081736216
+13,13,Pichincha,4787,Active,EC,Ecuador,-78.59978536,-0.248395962
+14,14,Antizana,5705,Active,EC,Ecuador,-78.13310571,-0.481717441
+15,15,Sumaco,3828,Active,EC,Ecuador,-77.64976476,-0.565047148
+16,16,Cotopaxi,5897,Active,EC,Ecuador,-78.36644954,-0.631709879
+17,17,Quilotoa,3981,Active,EC,Ecuador,-78.91645122,-0.865032524
+18,18,Lunganate,0,Potentially active,EC,Ecuador,-78.24977754,-1.215016158
+19,19,Tungurahua,5016,Active,EC,Ecuador,-78.44977957,-1.465002944
+20,20,Sangay,5230,Active,EC,Ecuador,-78.33312359,-2.031641248
+21,21,Fernandina,1546,Active,EC,Ecuador,-91.5167798,-0.348391144
+22,22,Wolf,1710,Active,EC,Ecuador,-91.35010371,-0.031738792
+23,23,Darwin,1325,Potentially active,EC,Ecuador,-91.30010745,-0.181731397
+24,24,Alcedo,1127,Active,EC,Ecuador,-91.13343119,-0.381722426
+25,25,Santo Tomas,1490,Active,EC,Ecuador,-91.16675814,-0.831700242
+26,26,Cerro Azul,1690,Active,EC,Ecuador,-91.33344924,-0.831700242
+27,27,San Salvador,920,Active,EC,Ecuador,-90.75009059,-0.198398539
+28,28,Santa Maria,640,Active,EC,Ecuador,-90.4500802,-1.281678223
+29,29,Nevado Coropuna,6621,Solfatara stage,PE,Peru,-72.69962472,-15.51440728
+30,30,Hualca-Gaulca,5795,Solfatara stage,PE,Peru,-71.88293759,-15.79772669
+31,31,Vol. Misti,5825,Active,PE,Peru,-71.41625077,-16.29770876
+32,32,Ubinas,5672,Active,PE,Peru,-70.89958271,-16.34770702
+33,33,Omate,4800,Active,PE,Peru,-70.86624843,-16.58102966
+34,34,Ticsani,5415,Potentially active,PE,Peru,-70.59957132,-16.76436339
+35,35,Tutupaca,5806,Active,PE,Peru,-70.36623483,-17.03101565
+36,36,Calientes,5358,Potentially active,PE,Peru,-70.21622872,-17.14767981
+37,37,Yucamane,5508,Active,PE,Peru,-70.19955824,-17.18100976
+38,38,Nevado Sajama,6529,Potentially active,BL,Bolivia,-68.88285685,-18.11431918
+39,39,De Sacabaya,4150,Solfatara stage,BL,Bolivia,-68.782855,-18.61430476
+40,40,Cerro Tulapalca,4780,Potentially active,CI,Chile,-69.46620599,-18.69763514
+41,41,Cerro Arintica,5590,Solfatara stage,CI,Chile,-69.04953127,-18.73096225
+42,42,Isluga,5530,Active,CI,Chile,-68.83286576,-19.14761929
+43,43,Irruputunco,5165,Solfatara stage,CI,Chile,-68.56618315,-20.73090957
+44,44,Olca,5310,Solfatara stage,CI,Chile,-68.51617822,-20.93090477
+45,45,Cerro Aucanquilcha,6148,Solfatara stage,CI,Chile,-68.46617296,-21.21423701
+46,46,Oyahue,5874,Solfatara stage,CI,Chile,-68.19949585,-21.29756438
+47,47,San Pedro,6159,Active,CI,Chile,-68.39950406,-21.88088217
+48,48,Cerros'de Tatio,4280,Solfatara stage,CI,Chile,-68.03282393,-22.3475423
+49,49,Cerros de Tocorpuri,5833,Solfatara stage,CI,Chile,-67.89948929,-22.43087017
+50,50,Putana,5890,Solfatara stage,CI,Chile,-67.86615484,-22.56420648
+51,51,Licancabur,5930,Active,CI,Chile,-67.94948405,-22.83086241
+52,52,El Negrillar,3500,Potentially active,CI,Chile,-68.23282313,-23.13085662
+53,53,Lascar,5641,Active,CI,Chile,-67.73280937,-23.36419177
+54,54,Llullaillaco,6723,Active,CI,Chile,-68.54949833,-24.71417092
+55,55,Lastarria,5680,Solfatara stage,CI,Chile,-68.51616254,-25.16416524
+56,56,Submarine volcano,-91,Active, , ,-78.78308206,-33.61416347
+57,57,Submarine volcano,-432,Active, , ,-76.81636379,-33.56415871
+58,58,Nevado Tupungatito,5640,Active,CI,Chile,-69.79948979,-33.39746628
+59,59,San Jose,5830,Active,CI,Chile,-69.91614478,-33.79746735
+60,60,Tinguiririca,4300,Solfatara stage,CI,Chile,-70.34949331,-34.81414784
+61,61,Descabezado Grande,3830,Active,CI,Chile,-70.74950122,-35.5808167
+62,62,Cerro Azul,3810,Active,CI,Chile,-70.76617119,-35.66416175
+63,63,Nevados de Chillan,3180,Active,CI,Chile,-71.38284311,-36.8641778
+64,64,Antuco,2985,Active,CI,Chile,-71.36617714,-37.39751818
+65,65,Copahue,2969,Solfatara stage,CI,Chile,-71.16615609,-37.84752217
+66,66,Lonquimay,2890,Active,CI,Chile,-71.58285249,-38.36420441
+67,67,Llaima,3124,Active,CI,Chile,-71.6995068,-38.69754342
+68,68,Villarrica,2840,Active,CI,Chile,-71.9495096,-39.4142307
+69,69,Rinihue,2430,Active,CI,Chile,-72.03284464,-39.93090076
+70,70,Nilahue,300,Active,CI,Chile,-72.09950971,-40.34757898
+71,71,Puyehue,2240,Active,CI,Chile,-72.13284116,-40.58091497
+72,72,Osorno,2660,Active,CI,Chile,-72.49951812,-41.09759988
+73,73,Calbuco,2015,Active,CI,Chile,-72.61618911,-41.33093653
+74,74,Huequi,1050,Active,CI,Chile,-72.66617119,-42.33096539
+75,75,Minchinmavida,2470,Active,CI,Chile,-72.44950035,-42.79764971
+76,76,Corcovado,2300,Active,CI,Chile,-72.799515,-43.18099431
+77,77,Cerro  Hudson,2600,Active,CI,Chile,-72.96616157,-45.89776299
+78,78,Lautaro,3380,Active,CI,Chile,-73.54948837,-49.01456993
+79,79,Viedma,1300,Solfatara stage,AR,Argentina,-73.33281719,-49.41459001
+80,80,Cerro Burney,1750,Active,CI,Chile,-73.3994439,-52.33139842
+81,81,Pinta,777,Active,EC,Ecuador,-90.75009059,-0.581712622
+82,82,Marchena,354,Solfatara stage,EC,Ecuador,-90.46675051,-0.331725003
+83,83,Santa Fe,274,Solfatara stage,EC,Ecuador,-90.06674644,-0.798368959
+84,84,Espanola,205,Active,EC,Ecuador,-89.70006131,-1.381673404
+85,85,Nevado Chupiquina,5787,Solfatara stage,PE,Peru,-69.79955317,-17.62602062
+86,86,Tacora,5980,Solfatara stage,PE,Peru,-69.86377153,-17.68453289
+87,87,Guallatiri,6060,Active,BL,Bolivia,-69.04844125,-18.40579621
+88,88,Puquintica,5760,Solfatara stage,CI,Chile,-69.00876632,-18.73096208
+89,89,NevadoOjos delSalado,6885,Solfatara stage,CI,Chile,-68.55907135,-27.08205548
+90,90,Peteroa,4090,Active,CI,Chile,-70.60337304,-35.24748436
+91,91,San Felix,183,Solfatara stage,CI,Chile,-80.11647294,-26.26417978
+92,92,El Janqui,915,Active,CI,Chile,-78.84974996,-33.66416707
+93,93,Submarine volcano,0,Active, , ,-77.99974989,-23.9975365
+94,94,Tanaga,2138,Active,US,United States,-178.1190252,51.88220941
+95,95,Mt. Moffett,1196,Solfatara stage,US,United States,-176.7523291,51.93223619
+96,96,Adak,631,Solfatara stage,US,United States,-176.6023376,51.98223811
+97,97,Great Sitkin,1754,Active,US,United States,-176.1190347,52.06557933
+98,98,Korovin,1489,Active,US,United States,-174.1690516,52.38228621
+99,99,Mt. Kliuchef,915,Solfatara stage,US,United States,-174.15234,52.31562565
+100,100,Sarichef,614,Active,US,United States,-174.0523488,52.31562765
+101,101,Seguam,1056,Active,US,United States,-172.3856421,52.31566067
+102,102,Yunaska,603,Active,US,United States,-170.6523459,52.64902669
+103,103,Cleveland,1740,Active,US,United States,-169.9690626,52.81570812
+104,104,Tana,1770,Solfatara stage,US,United States,-169.7690504,52.83237009
+105,105,Mt. Vsevidof,2123,Active,US,United States,-168.7023646,53.1323945
+106,106,Mt. Recheshnoi,1940,Active,US,United States,-168.5523707,53.14906848
+107,107,Okmok Caldera,1079,Active,US,United States,-168.0523821,53.41574892
+108,108,Tulik,1252,Active,US,United States,-168.0523803,53.3824078
+109,109,Makushin,2048,Active,US,United States,-166.9357006,53.86576926
+110,110,Submarine volcano,-300,Active, , ,-166.0023631,53.39911947
+111,111,Akutan,1300,Active,US,United States,-166.0024047,54.13245071
+112,112,Gilbert,819,Solfatara stage,US,United States,-165.6524035,54.26579718
+113,113,Submarine volcano,-70,Active, , ,-169.0025865,56.66574607
+114,114,Pogromhi,2300,Active,US,United States,-164.7024156,54.56581758
+115,115,Westdale Peak,1541,Active,US,United States,-164.6524092,54.51581832
+116,116,Submarine volcano,-70,Active, , ,-164.3690998,54.31582312
+117,117,Fisher,1080,Active,US,United States,-164.4191219,54.63248465
+118,118,Shishaldin,2874,Active,US,United States,-163.9691274,54.74916332
+119,119,Isanotski,2495,Active,US,United States,-163.735727,54.74916799
+120,120,Kookooligit Mtns.,631,Potentially active,US,United States,-170.0864977,63.56582583
+121,121,Morzhovoi,2600,Active,US,United States,-162.8357237,54.99918729
+122,122,Mt. Emmouns,1326,Potentially active,US,United States,-162.0691334,55.33253297
+123,123,Haig,1400,Potentially active,US,United States,-161.9857455,55.36587592
+124,124,Pavlof Vol,2731,Active,US,United States,-161.9024346,55.41588085
+125,125,Pavlof Sister,2149,Active,US,United States,-161.8524482,55.44921114
+126,126,Mt. Veniaminof,2575,Active,US,United States,-159.3857569,56.16593744
+127,127,Aniakshak Crater,1356,Active,US,United States,-158.1691652,56.54929238
+128,128,Chiginagak,2434,Active,US,United States,-157.0024838,57.13265419
+129,129,Mt. Peulik,1533,Active,US,United States,-156.3525213,57.74934396
+130,130,Martin,1844,Active,US,United States,-155.402521,58.14937038
+131,131,Mt. Mageik,2223,Active,US,United States,-155.2525279,58.19937314
+132,132,Novarupta,841,Active,US,United States,-155.1692344,58.28270401
+133,133,Knife Peak,2313,Solfatara stage,US,United States,-155.1358364,58.33270444
+134,134,Trident,2082,Active,US,United States,-155.119227,58.23270525
+135,135,Mt. Katmai,2298,Active,US,United States,-154.985835,58.26604838
+136,136,Kukak Vol,2003,Active,US,United States,-154.3525355,58.44939461
+137,137,Mt. Douglas,2328,Solfatara stage,US,United States,-153.5525475,58.866085
+138,138,St Augustin,1218,Active,US,United States,-153.4192812,59.36609593
+139,139,Iliamna Vol,3091,Active,US,United States,-152.7526174,60.03278112
+140,140,Redout Vol,3129,Active,US,United States,-152.7526522,60.46613131
+141,141,Mt. Spurr,3374,Active,US,United States,-152.2527114,61.29948608
+142,142,Mt. Sanford,4950,Solfatara stage,US,United States,-144.1192809,62.216336
+143,143,Mt. Wrangell,4320,Active,US,United States,-144.0192536,61.99966165
+144,144,Mt. Blackbern,5039,Solfatara stage,US,United States,-143.4025144,61.73299672
+145,145,Yukon,2469,Potentially active,US,United States,-141.4691448,61.44969616
+146,146,Mt. Edziza,2132,Potentially active,CA,Canada,-130.5018181,57.16645827
+147,147,Teax River Cone,609,Potentially active,CA,Canada,-128.835057,57.11647819
+148,148,Mt. Baker,3316,Active,US,United States,-121.8179443,48.78314112
+149,149,Mt. Rainier,4395,Active,US,United States,-121.8178995,46.86648015
+150,150,Mt. St. Helens,2975,Active,US,United States,-122.1844879,46.19980964
+151,151,Mt. Adams,3754,Potentially active,US,United States,-121.5011716,46.19981664
+152,152,Mt. Hood,3424,Potentially active,US,United States,-121.7011571,45.36648555
+153,153,Yellowstone,2500,Solfatara stage,US,United States,-110.000776,43.99992249
+154,154,Craters of the Moon,2005,Potentially active,US,United States,-113.4508726,43.3332298
+155,155,Mt. Mazama,2723,Potentially active,US,United States,-122.1511278,42.91650088
+156,156,Glass Mountains,2350,Potentially active,US,United States,-121.5010849,41.616518
+157,157,Little Glass Mount.,2109,Potentially active,US,United States,-121.5843847,41.58317671
+158,158,Mt. Shasta,4317,Active,US,United States,-122.184396,41.39984715
+159,159,Sidney Cowan,2125,Active,US,United States,-121.5010672,40.53319212
+160,160,Lassen Peak,3189,Active,US,United States,-121.5177682,40.49986334
+161,161,Steamboat,1415,Solfatara stage,US,United States,-119.7176992,39.38322719
+162,162,Coso Hot Springs,1290,Solfatara stage,US,United States,-117.7842076,35.99997612
+163,163,Submarine volcano,-3000,Active, , ,-110.033894,19.00061754
+164,164,Las Tres Virgenes,1985,Active,MX,Mexico,-112.5839944,27.46692636
+165,165,Ceboruco,2164,Active,MX,Mexico,-104.5004603,21.15053812
+166,166,Colima,3960,Active,MX,Mexico,-103.7171332,19.41728626
+167,167,Paricutin,3170,Active,MX,Mexico,-102.2503978,19.48394665
+168,168,Jorullo,1330,Active,MX,Mexico,-101.6670837,19.03396917
+169,169,Sierra de San Andres,3589,Solfatara stage,MX,Mexico,-100.6336578,19.83393462
+170,170,Xictli,3120,Active,MX,Mexico,-99.21698578,19.25063301
+171,171,Popocatepetl,5452,Active,MX,Mexico,-98.61697183,19.01731454
+172,172,Pico de Orizaba,5675,Active,MX,Mexico,-97.28360113,19.03397684
+173,173,San Martin,1550,Active,MX,Mexico,-95.16686891,18.58399869
+174,174,El Chichon,1350,Solfatara stage,MX,Mexico,-93.20015615,17.33405743
+175,175,Tajumulco,4220,Active,GT,Guatemala,-91.90012573,15.0508354
+176,176,Santa Maria,3772,Active,GT,Guatemala,-91.55011742,14.75084986
+177,177,Cerro Quemado,3027,Active,GT,Guatemala,-91.51678363,14.80084762
+178,178,Zunil,3533,Solfatara stage,GT,Guatemala,-91.48344268,14.71752158
+179,179,Atitlan,3537,Active,GT,Guatemala,-91.18343179,14.58418811
+180,180,Toliman,3158,Solfatara stage,GT,Guatemala,-91.18343195,14.61752657
+181,181,Acatenango,3976,Active,GT,Guatemala,-90.88342806,14.50086224
+182,182,Fuego,3736,Active,GT,Guatemala,-90.88342806,14.4841931
+183,183,Agua,3766,Active,GT,Guatemala,-90.7500936,14.46753396
+184,184,Pacaya,2552,Active,GT,Guatemala,-90.60008765,14.38419792
+185,185,Tequamburro,1840,Solfatara stage,GT,Guatemala,-90.41674192,14.15087927
+186,186,Ahuachapan,1436,Solfatara stage,ES,El Salvador,-89.76673788,13.75089888
+187,187,Santa Ana,2382,Active,ES,El Salvador,-89.63339558,13.85089506
+188,188,Izalco,1965,Active,ES,El Salvador,-89.63339558,13.81756662
+189,189,Cerro el Playon,660,Potentially active,ES,El Salvador,-89.33340069,13.81756678
+190,190,San Salvador,1850,Active,ES,El Salvador,-89.28338843,13.73422991
+191,191,Aylas Quemadas,450,Active,ES,El Salvador,-89.05005244,13.66757318
+192,192,San Vicente,2000,Solfatara stage,ES,El Salvador,-88.85004323,13.61757559
+193,193,Tecapa,600,Solfatara stage,ES,El Salvador,-88.50003508,13.50091126
+194,194,Chinameca,1228,Solfatara stage,ES,El Salvador,-88.23335831,13.48424212
+195,195,San Miguel,2130,Active,ES,El Salvador,-88.26669909,13.43424453
+196,196,Conchagua,1250,Solfatara stage,ES,El Salvador,-87.85001737,13.28425192
+197,197,Cosiguina,859,Active,NU,Nicaragua,-87.56668396,12.98426671
+198,198,El Viejo,1745,Active,NU,Nicaragua,-86.99999646,12.70095065
+199,199,Chichigalpa,1592,Solfatara stage,NU,Nicaragua,-86.96666251,12.68428134
+200,200,Telica,1010,Active,NU,Nicaragua,-86.84999151,12.60095647
+201,201,Santa Clara,834,Potentially active,NU,Nicaragua,-86.81666474,12.56762819
+202,202,Hervideros de San,140,Solfatara stage,NU,Nicaragua,-86.81666474,12.56762819
+203,203,Cerro Negro,675,Active,NU,Nicaragua,-86.69998574,12.50096045
+204,204,Las Pilas,938,Active,NU,Nicaragua,-86.68331526,12.50096045
+205,205,Momotombo,1191,Active,NU,Nicaragua,-86.53331748,12.41763458
+206,206,Masaya,635,Active,NU,Nicaragua,-86.14997655,11.9843159
+207,207,Mombacho,1345,Active,NU,Nicaragua,-85.98330029,11.8343233
+208,208,Concepcion,1610,Active,NU,Nicaragua,-85.61663,11.53433825
+209,209,Orosi,1440,Active,CS,Costa Rica,-85.46662422,10.98436559
+210,210,Ricon de la Vieja,1806,Active,CS,Costa Rica,-85.34995323,10.83437315
+211,211,Miravalles,2028,Active,CS,Costa Rica,-85.14995119,10.75104728
+212,212,Arenal,1552,Active,CS,Costa Rica,-84.73326864,10.46773138
+213,213,Poas,2704,Active,CS,Costa Rica,-84.2165924,10.20107462
+214,214,Barva,2894,Active,CS,Costa Rica,-84.0832661,10.13440805
+215,215,Irazu,3432,Active,CS,Costa Rica,-83.84991511,9.98441745
+216,216,Turrialba,3335,Active,CS,Costa Rica,-83.76658407,10.03441287
+217,217,Mt. St. Catherine,840,Potentially active,GJ,Grenada,-61.66603901,12.15094813
+218,218,Submarine volcano,-192,Active, , ,-61.63269689,12.30094024
+219,219,Soufriere,1178,Active,VC,St. Vincent and the Grenadines,-61.18268372,13.33421583
+220,220,Wallibou,777,Active,ST,St. Lucia,-61.04934725,13.8341899
+221,221,Submarine volcano,-500,Active, , ,-61.06601823,14.03417976
+222,222,Montagne Pelee,1397,Active,MB,Martinique,-61.16602025,14.81748141
+223,223,Morne Patates,525,Solfatara stage,DO,Dominica,-61.36602062,15.21746096
+224,224,Grand Soufriere,792,Active,DO,Dominica,-61.29934888,15.30078667
+225,225,Diablotin,1421,Solfatara stage,DO,Dominica,-61.41602405,15.50077703
+226,226,Morne au Diable,861,Solfatara stage,DO,Dominica,-61.44935333,15.61744119
+227,227,Submarine volcano,-7,Active, , ,-61.28267573,16.13408624
+228,228,Soufriere,1467,Active,GP,Guadeloupe,-61.66602817,16.05074953
+229,229,Soifriere Hills,914,Active,MH,Montserrat,-62.18269724,16.71738835
+230,230,Mt. Misery,1157,Active,SC,St. Kitts and Nevis,-62.79937766,17.36736086
+231,231,Kiska,1227,Active,US,United States,-177.6023437,52.09888676
+232,232,Segula,1159,Potentially active,US,United States,-178.1356342,52.01554755
+233,233,Little Sitkin,1202,Active,US,United States,-178.5356242,51.94887097
+234,234,Ceber,780,Solfatara stage,US,United States,-179.585625,51.93218015
+235,235,Sugarloaf,857,Solfatara stage,US,United States,-179.6356263,51.89885037
+236,236,Mt. Gareloi,1637,Active,US,United States,-178.8023244,51.79886436
+237,237,Kanaga,1356,Active,US,United States,-178.1690298,51.91554936
+238,238,Kasatochi,310,Potentially active,US,United States,-175.5023413,52.18226016
+239,239,Amukta,1064,Active,US,United States,-171.2690396,52.49901258
+240,240,Chagulak,1145,Solfatara stage,US,United States,-171.1523446,52.58234278
+241,241,Carlile,1620,Active,US,United States,-170.0690586,52.89903816
+242,242,Uliaga,887,Potentially active,US,United States,-169.7856651,53.06571192
+243,243,Kagamil,898,Active,US,United States,-169.7356714,52.9657139
+244,244,Bogoslof,46,Active,US,United States,-168.0357033,53.93240931
+245,245,Amak,546,Active,US,United States,-163.1524486,55.41585584
+246,246,Submarine volcano,-200,Active,US,United States,-150.1191069,57.91613945
+247,247,Nevis Peak,985,Active,SC,St. Kitts and Nevis,-62.58270231,17.15069969
+248,248,Quill,601,Potentially active,NT,Netherlands Antilles,-62.94938294,17.48401484
+249,249,Mountain,887,Potentially active,NT,Netherlands Antilles,-63.23271819,17.63400845
+250,250,Barcena,375,Active,MX,Mexico,-110.8006147,19.2672728
+251,251,Socorro,1000,Active,MX,Mexico,-111.9506345,18.75062292
+252,252,Tacana,4092,Active,MX,Mexico,-92.12225351,15.12586573
+253,253,Conchaguita,550,Active,ES,El Salvador,-87.76668617,13.20092605
+254,254,Koniuji,270,Active,US,United States,-175.1356435,52.21560745
+255,255,Collie Evganel Group,600,Solfatara stage,IT,Italy,11.66868667,45.24881743
+256,256,Larderello,210,Solfatara stage,IT,Italy,10.86862349,43.24887912
+257,257,Monte Amiata,1738,Solfatara stage,IT,Italy,11.63526866,42.89887747
+258,258,Mt.Cavo,949,Potentially active,IT,Italy,12.73522866,41.78221798
+259,259,Roccamonfina,1066,Active,IT,Italy,13.93520619,41.2988832
+260,260,Campi Flegrei,458,Active,IT,Italy,14.13519272,40.8322239
+261,261,Vesuvio,1281,Active,IT,Italy,14.43518927,40.81556159
+262,262,Etna,3290,Active,IT,Italy,15.00177687,37.73232508
+263,263,Submarine volcano,0,Active, , ,13.16844861,37.33236671
+264,264,Submarine volcano,0,Active, , ,14.06841291,35.99908123
+265,265,Submarine volcano,0,Active, , ,18.66837753,35.8990215
+266,266,Submarine volcano,0,Active, , ,21.4516912,36.28229156
+267,267,Susaki,180,Solfatara stage,GR,Greece,23.06837914,37.93219821
+268,268,Kameno Vouno,760,Active,GR,Greece,23.35169904,37.58220607
+269,269,Kos Island,430,Solfatara stage,GR,Greece,26.95163763,36.69886788
+270,270,Eldborg,112,Active,IC,Iceland,-22.31362151,64.78290995
+271,271,Trolladyngja,393,Active,IC,Iceland,-22.09703889,63.93288103
+272,272,Ogmundahraun,120,Active,IC,Iceland,-22.18037893,63.86621913
+273,273,Kapelluhraun,120,Potentially active,IC,Iceland,-21.93036063,63.98287795
+274,274,Brennisteinsfjoll,543,Active,IC,Iceland,-21.76369921,63.94954467
+275,275,Blaufjoll,395,Potentially active,IC,Iceland,-21.54701769,63.99954059
+276,276,Eldborgs,410,Potentially active,IC,Iceland,-21.53034755,64.01621057
+277,277,Eldborg(Hnappadalur),370,Potentially active,IC,Iceland,-21.49701393,64.03287337
+278,278,Kristnitokuhraun,400,Potentially active,IC,Iceland,-21.38035394,64.01620757
+279,279,Submarine volcano,0,Active, , ,-20.24705866,63.33282522
+280,280,Eyjafjallajokull,1666,Active,IC,Iceland,-19.61368491,63.63282244
+281,281,Katla,900,Active,IC,Iceland,-19.06367206,63.63281093
+282,282,Raudhubjallar,550,Potentially active,IC,Iceland,-19.74698486,63.93283267
+283,283,Easter Trippafjoll,645,Potentially active,IC,Iceland,-19.74698486,63.93283267
+284,284,Hekla,1491,Active,IC,Iceland,-19.69697943,63.98283192
+285,285,Craters by Mundafell,760,Potentially active,IC,Iceland,-19.54697415,63.98282875
+286,286,Krakatindur,800,Active,IC,Iceland,-19.46363877,64.01616787
+287,287,Lambafitarhraun,550,Potentially active,IC,Iceland,-19.39696103,64.08284211
+288,288,Hraftinnuhraun,920,Active,IC,Iceland,-19.18030186,63.9494913
+289,289,Laugahraun,800,Potentially active,IC,Iceland,-19.080295,63.98281908
+290,290,Namshraun,680,Potentially active,IC,Iceland,-19.06363286,63.99948906
+291,291,Eldgja,0,Active,IC,Iceland,-18.61362803,63.96614977
+292,292,Laki,650,Active,IC,Iceland,-18.23026809,64.06614629
+293,293,Sidhujokull,0,Active,IC,Iceland,-17.89692575,64.11613654
+294,294,Trollahraun,900,Active,IC,Iceland,-18.08022045,64.46614736
+295,295,Orafajokull,2119,Active,IC,Iceland,-16.61357248,63.99943736
+296,296,Thordharhyarna,1660,Active,IC,Iceland,-17.53023278,64.26613348
+297,297,Grimsvotn,1719,Active,IC,Iceland,-17.31355042,64.41611975
+298,298,Kverkfjoll,1920,Active,IC,Iceland,-16.68017217,64.64945724
+299,299,Dyngjuhals,1100,Active,IC,Iceland,-17.29683492,64.79947536
+300,300,Askja,1510,Active,IC,Iceland,-16.7301269,65.0327995
+301,301,Sveinagja,440,Active,IC,Iceland,-16.44673095,65.53280676
+302,302,Jardhbadhsholar,300,Active,IC,Iceland,-16.84672535,65.63281612
+303,303,Rossadalur,400,Active,IC,Iceland,-16.84672335,65.6494876
+304,304,Krafla,620,Active,IC,Iceland,-16.76338314,65.71615266
+305,305,Leirhnukur,650,Active,IC,Iceland,-16.79671075,65.7328168
+306,306,Submarine volcano,0,Active,IC,Iceland,-16.47994566,66.41615629
+307,307,Submarine volcano,0,Active, , ,-18.49668153,66.2495379
+308,308,Submarine volcano,-17,Active, , ,-18.91336108,66.24954691
+309,309,Submarine volcano,0,Active, , ,-25.24673833,67.16636363
+310,310,Submarine volcano,-108,Active, , ,-25.49695476,65.4996616
+311,311,Birenberg,2227,Active,JN,Jan Mayen,-8.312343586,70.99946027
+312,312,Faial,1043,Active,PO,Portugal,-28.73177254,38.59962135
+313,313,Pico,2351,Active,PO,Portugal,-28.39843087,38.46629206
+314,314,Submarine volcano,0,Active, , ,-27.46508992,38.21628559
+315,315,San Jorge,1053,Active,PO,Portugal,-28.08175166,38.64961444
+316,316,Submarine volcano,-284,Active, , ,-27.41508399,38.49960699
+317,317,Submarine volcano,-200,Active, , ,-27.48173888,38.78293007
+318,318,Santa Barbara,1023,Active,PO,Portugal,-27.3150773,38.73292997
+319,319,Guilherme Moniz,808,Solfatara stage,PO,Portugal,-27.19840631,38.73292847
+320,320,Sete Cidades,856,Active,PO,Portugal,-25.78173308,37.86626977
+321,321,Agua de Pau,948,Active,PO,Portugal,-25.46506856,37.76626908
+322,322,Fournaise,805,Active,PO,Portugal,-25.31506728,37.76626708
+323,323,Submarine volcano,-2835,Active, , ,-25.83168548,39.94955263
+324,324,Submarine volcano,-3000,Active, , ,-42.49881475,31.53331145
+325,325,Submarine volcano,-4200,Active, , ,-38.08193603,38.74973754
+326,326,Submarine volcano,-1650,Active, , ,-34.49825983,48.99957848
+327,327,El'brus,5633,Active,RS,Russia,42.45151944,43.33172019
+328,328,Kazbek,5047,Potentially active,RS,Russia,44.53478713,42.76504436
+329,329,Graciosa,402,Solfatara stage,PO,Portugal,-27.9650805,39.01627222
+330,330,Submarine volcano,0,Active,PO,Portugal,-26.63173632,38.23293289
+331,331,Submarine volcano,0,Active,PO,Portugal,-25.88174461,37.8662711
+332,332,Submarine volcano,0,Active,PO,Portugal,-25.88173844,37.59960817
+333,333,Submarine volcano,0,Active,IC,Iceland,-23.76379629,63.48290238
+334,334,Submarine volcano,0,Active,IC,Iceland,-22.91374786,63.74956198
+335,335,Surtsey,174,Active,IC,Iceland,-20.61374112,63.29950295
+336,336,Helgafell,220,Active,IC,Iceland,-20.24704849,63.43283058
+337,337,Submarine volcano,0,Active,IC,Iceland,-17.09664209,66.31618279
+338,338,Submarine volcano,0,Active,IC,Iceland,-18.59656548,67.11623463
+339,339,Ischia,789,Active,IT,Italy,13.9018604,40.73223305
+340,340,Stromboli,926,Active,IT,Italy,15.21847107,38.78227999
+341,341,Lipari,602,Potentially active,IT,Italy,14.95179546,38.48229645
+342,342,Vulcano,500,Active,IT,Italy,14.96846327,38.39897141
+343,343,Submarine volcano,0,Active,IT,Italy,12.73510792,37.19905158
+344,344,Submarine volcano,0,Active,IT,Italy,11.91844347,36.83240564
+345,345,Submarine volcano,0,Active,IT,Italy,13.7017608,36.69905767
+346,346,Milos,751,Solfatara stage,GR,Greece,24.33710554,36.65944294
+347,347,Santorini,130,Active,GR,Greece,25.40239642,36.39853012
+348,348,Submarine volcano,0,Active,GR,Greece,25.53498109,36.49889553
+349,349,Nisiros,698,Active,GR,Greece,27.16830114,36.56554008
+350,350,Submarine volcano,0,Active,IT,Italy,13.00176935,36.89906087
+351,351,Submarine volcano,-900,Active, , ,146.365541,-2.864821242
+352,352,Langila,1189,Active,PP,Papua New Guinea,148.4155101,-5.531258455
+353,353,Bangum,1052,Solfatara stage,PP,Papua New Guinea,149.9320911,-5.347945073
+354,354,Benda,320,Active,PP,Papua New Guinea,150.0987915,-5.031304229
+355,355,Bola,1164,Solfatara stage,PP,Papua New Guinea,150.0320801,-5.147962216
+356,356,Welker,897,Solfatara stage,PP,Papua New Guinea,150.0154788,-5.41460547
+357,357,Garbuna,564,Solfatara stage,PP,Papua New Guinea,150.0320796,-5.447934752
+358,358,Krummel,869,Solfatara stage,PP,Papua New Guinea,150.0320796,-5.464601393
+359,359,Pago,724,Active,PP,Papua New Guinea,150.5320725,-5.581258546
+360,360,Walo,15,Solfatara stage,PP,Papua New Guinea,150.8987677,-5.531263458
+361,361,Galloseulo,1173,Solfatara stage,PP,Papua New Guinea,151.1154702,-5.331280766
+362,362,Mt.Bamus,2248,Solfatara stage,PP,Papua New Guinea,151.2654625,-5.197959306
+363,363,Mt.Ulawun,2300,Active,PP,Papua New Guinea,151.3487747,-5.047973038
+364,364,Rabaul,226,Active,PP,Papua New Guinea,152.1654614,-4.264705749
+365,365,Lihir,817,Solfatara stage,PP,Papua New Guinea,152.632056,-3.098138885
+366,366,Mt.Balbi,2593,Solfatara stage,PP,Papua New Guinea,154.9820283,-5.93123918
+367,367,Mt.Bagana,1702,Active,PP,Papua New Guinea,155.1987154,-6.131223371
+368,368,Loloru,1894,Solfatara stage,PP,Papua New Guinea,155.6154116,-6.514527114
+369,369,Simbo,312,Solfatara stage,BP,Solomon Islands,156.5153901,-8.2977202
+370,370,Kovachi,0,Active,BP,Solomon Islands,157.9486759,-9.014336099
+371,371,Gaua,700,Active,NH,Vanuatu,167.4985688,-14.24734092
+372,372,Aoba,1350,Solfatara stage,NH,Vanuatu,167.8485649,-15.39726833
+373,373,Ambrym,1334,Active,NH,Vanuatu,168.0818484,-16.24721803
+374,374,Submarine volcano,0,Active, , ,168.3652452,-16.6805237
+375,375,Submarine volcano,0,Active, , ,169.2152292,-18.7137506
+376,376,Yasur Volcano,350,Active,NH,Vanuatu,169.4318198,-19.51370938
+377,377,Mt.Matavanu,708,Active,WS,Western Samoa,-172.3681738,-13.51417712
+378,378,Mauga Afi,1599,Active,WS,Western Samoa,-172.5347701,-13.51417612
+379,379,Submarine volcano,-46,Active, , ,-169.6014774,-14.19748492
+380,380,Submarine volcano,0,Active,TN,Tonga,-173.8514954,-15.31406553
+381,381,Submarine volcano,0,Active, , ,-173.6181897,-15.56405332
+382,382,Submarine volcano,-221,Active, , ,-174.3182062,-17.91392407
+383,383,Submarine volcano,0,Active, , ,-174.6182174,-18.81387569
+384,384,Submarine volcano,-4900,Active, , ,-171.0015128,-18.99722743
+385,385,Submarine volcano,-5400,Active, , ,-171.8682164,-19.24720855
+386,386,Submarine volcano,0,Active, , ,-175.3848368,-20.56378636
+387,387,Submarine volcano,0,Active, , ,-175.4681343,-20.61378429
+388,388,Submarine volcano,-12,Active, , ,-175.5348337,-20.8471031
+389,389,Submarine volcano,-1500,Active, , ,-175.7681472,-21.46374249
+390,390,Submarine volcano,-100,Active, , ,-177.8683458,-29.18011046
+391,391,Submarine volcano,-119,Active, , ,178.4982362,-35.66329003
+392,392,Tarawera,1111,Active,NZ,New Zealand,176.4814889,-38.22990317
+393,393,Tongariro,1978,Active,NZ,New Zealand,175.6481562,-39.12989032
+394,394,Ngauruhoe,2291,Active,NZ,New Zealand,175.6314624,-39.16323094
+395,395,Ruapehu,2796,Active,NZ,New Zealand,175.5648547,-39.27988693
+396,396,Mount Egmont,2518,Active,NZ,New Zealand,174.0648609,-39.29653339
+397,397,Submarine volcano,-13,Active, , ,-175.5373385,-21.11319117
+398,398,Kilauea,1222,Active,US,United States,-155.301419,19.43366422
+399,399,Mauna Loa,4170,Active,US,United States,-155.6181185,19.48366681
+400,400,Hualalai,2515,Active,US,United States,-155.8681228,19.70031414
+401,401,Haleakala,3055,Active,US,United States,-156.2514369,20.71691975
+402,402,Submarine volcano,-500,Active, , ,-157.9181643,21.75017733
+403,403,Submarine volcano,-3500,Active, , ,-158.8514754,21.65017481
+404,404,Submarine volcano,-4000,Active, , ,-163.8348253,23.58334766
+405,405,Curtis Island,137,Active,NZ,New Zealand,-178.5849662,-30.49673981
+406,406,Submarine volcano,0,Active,NZ,New Zealand,-178.9183655,-30.23007171
+407,407,Raoul Island,543,Active,NZ,New Zealand,-177.9183503,-29.26344768
+408,408,Niuafo'ou,260,Active,TN,Tonga,-175.6347944,-15.59736793
+409,409,Fonualei,129,Active,TN,Tonga,-174.3348102,-18.14724104
+410,410,Leith Island,518,Active,TN,Tonga,-174.6515122,-18.79720622
+411,411,Submarine volcano,0,Active,TN,Tonga,-174.7848152,-18.99719641
+412,412,Submarine volcano,0,Active,TN,Tonga,-174.8682211,-19.1805168
+413,413,Tofua Island,506,Active,TN,Tonga,-175.0682239,-19.79715469
+414,414,Submarine volcano,0,Active,TN,Tonga,-175.4182353,-20.31379741
+415,415,A'opo,1664,Active,WS,Western Samoa,-172.5180777,-13.61416947
+416,416,Baluan,246,Solfatara stage,PP,Papua New Guinea,147.2821227,-2.548182065
+417,417,Tuluman,40,Active,PP,Papua New Guinea,147.2988316,-2.448189719
+418,418,Lou Island,281,Solfatara stage,PP,Papua New Guinea,147.3321252,-2.398196298
+419,419,Ambitle,562,Solfatara stage,PP,Papua New Guinea,153.5987476,-4.081390533
+420,420,Paraza Sulfur Field,800,Solfatara stage,BP,Solomon Islands,156.5819953,-7.681101149
+421,421,Submarine volcano,0,Active,BP,Solomon Islands,157.0986962,-8.414379855
+422,422,Garua Harbour,30,Solfatara stage,PP,Papua New Guinea,150.0808162,-5.262840585
+423,423,Lolobau,932,Active,PP,Papua New Guinea,151.1654733,-4.931315552
+424,424,Garove,350,Solfatara stage,PP,Papua New Guinea,149.4987943,-4.681332935
+425,425,Narage,315,Active,PP,Papua New Guinea,149.1154989,-4.548009641
+426,426,Savo,510,Active,BP,Solomon Islands,159.8153551,-9.130999923
+427,427,Lopevi,1447,Active,NH,Vanuatu,168.3485537,-16.49720465
+428,428,Submarine volcano,0,Active,NH,Vanuatu,168.5318377,-16.86385376
+429,429,Tongoa,20,Solfatara stage,NH,Vanuatu,168.5652393,-16.88051206
+430,430,Matthew Island,200,Active,NC,New Caledonia,171.2984799,-22.3302431
+431,431,Hunter Island,297,Solfatara stage,NC,New Caledonia,172.0484751,-22.396916
+432,432,White Island,321,Active,NZ,New Zealand,177.1815011,-37.51325625
+433,433,Suretamatai,920,Solfatara stage,NH,Vanuatu,167.4652768,-13.79115971
+434,434,Tinakula,650,Active,BP,Solomon Islands,165.9331542,-10.73185558
+435,435,Jalua,733,Solfatara stage,ER,Eritrea,39.81785967,15.05023469
+436,436,Alid,685,Solfatara stage,ER,Eritrea,39.88451956,14.86692031
+437,437,Kebrit Ale,240,Solfatara stage,ET,Ethiopia,40.36784534,13.98365501
+438,438,Alu,400,Active,ET,Ethiopia,40.46784502,13.83366774
+439,439,Gabuli,450,Solfatara stage,ET,Ethiopia,40.53450191,13.80034029
+440,440,Bor Eli,435,Active,ET,Ethiopia,40.55117122,13.71701759
+441,441,Erta Ale,615,Solfatara stage,ET,Ethiopia,40.60116882,13.61702624
+442,442,Umnuna,1000,Solfatara stage,ET,Ethiopia,40.58449867,13.51703506
+443,443,Dubbi,1300,Active,ER,Eritrea,41.60115248,13.51703039
+444,444, ,2000,Potentially active,ER,Eritrea,41.68448219,13.35037582
+445,445,Sork Ali,2130,Potentially active,ET,Ethiopia,41.65115341,13.26705228
+446,446,Asdaga,2165,Solfatara stage,ET,Ethiopia,41.71782198,13.20038788
+447,447,Afdera,1287,Active,ET,Ethiopia,40.83449263,13.08373223
+448,448,Kurub,0,Solfatara stage,ET,Ethiopia,40.98448623,11.73385198
+449,449,Boina,700,Solfatara stage,ET,Ethiopia,42.20113474,10.96725634
+450,450,Gabillema,1400,Solfatara stage,ET,Ethiopia,41.28447778,11.06725185
+451,451,Aielu,2010,Active,ET,Ethiopia,40.70115532,10.08400171
+452,452,Abida,1745,Active,ET,Ethiopia,40.83448029,10.06734374
+453,453,Dofane,1065,Solfatara stage,ET,Ethiopia,40.08448941,9.350741178
+454,454,Fantale,2000,Solfatara stage,ET,Ethiopia,39.90116402,8.984106912
+455,455,Alutu,2300,Potentially active,ET,Ethiopia,38.78450519,7.767554632
+456,456,Chabbi,2304,Active,ET,Ethiopia,38.43450989,7.184274368
+457,457,Central Island,564,Solfatara stage,KE,Kenya,36.05120562,3.501278741
+458,458,Honel Island,915,Solfatara stage,KE,Kenya,36.75119607,2.618024274
+459,459,Teleki,646,Active,KE,Kenya,36.6011958,2.368046995
+460,460,Likaiu,457,Active,KE,Kenya,36.55119754,2.368046995
+461,461,Sugota and Logippi,427,Solfatara stage,KE,Kenya,36.50119928,2.368046995
+462,462,Menengai,2278,Solfatara stage,KE,Kenya,36.10120171,-0.231720816
+463,463,Homa Mountain,1781,Solfatara stage,KE,Kenya,34.50122528,-0.38170775
+464,464,Ol Doinyo Eburru,2856,Solfatara stage,KE,Kenya,36.23453201,-0.631685364
+465,465,Orengingnai,2160,Solfatara stage,KE,Kenya,36.30120025,-0.898328784
+466,466,Longonot,2779,Solfatara stage,KE,Kenya,36.45120002,-0.914994259
+467,467,Ol Doinyo Nyuke,2358,Solfatara stage,KE,Kenya,36.35119851,1.184819159
+468,468,Shaitani,1667,Active,KE,Kenya,37.96784992,2.868000553
+469,469,Chaimu,1616,Active,KE,Kenya,38.0678466,2.93466045
+470,470,Mayamoto,950,Solfatara stage,CG,Zaire,29.33461852,-0.931661401
+471,471,Nyamlagira,3056,Active,CG,Zaire,29.20129123,1.384805019
+472,472,Nyiragongo,3465,Active,CG,Zaire,29.23461984,1.484796363
+473,473,Visoke,3711,Active,CG,Zaire,29.48461713,1.534791787
+474,474,Cameroon,4070,Active,CM,Cameroon,9.168100359,4.201262187
+475,475,Tousside,3265,Solfatara stage,CD,Chad,16.41816842,21.04992355
+476,476,Tarso Voon,2500,Solfatara stage,CD,Chad,17.1681628,20.96659301
+477,477,Jebel Marra,3024,Active,SU,Sudan,24.26804464,12.95049532
+478,478,Palma,2423,Active,SP,Spain,-17.83179798,28.58316826
+479,479,Tenerife,3713,Active,SP,Spain,-16.63178926,28.29983702
+480,480,Lanzarote,671,Active,SP,Spain,-13.51509072,29.11643476
+481,481,Piton de la Fournas,2631,Active,RE,Reunion,55.70093315,-21.19665696
+482,482,Karthala,2361,Active,DJ,Djibouti,43.3844483,11.75051096
+483,483,Garbes,1000,Solfatara stage,ET,Ethiopia,42.5119129,11.03098239
+484,484,Ol Doinyo Lengai,2886,Active,TZ,United Republic of Tanzania,35.91787966,-2.757759119
+485,485,Kilimanjaro,5895,Solfatara stage,TZ,United Republic of Tanzania,37.36910777,-3.063899865
+486,486,Kiyo,2175,Active,TZ,United Republic of Tanzania,33.78649874,-9.209752587
+487,487,Meru,4565,Active,TZ,United Republic of Tanzania,36.7869282,-3.230265093
+488,488,Vulkan,600,Active,CH,China,81.00035739,35.99841564
+489,489, ,5200,Active,CH,China,91.70003323,35.84840569
+490,490,Laohei Shan,524,Active,CH,China,126.3321365,48.68135364
+491,491,Huoshao Shan,500,Active,CH,China,126.3487968,48.73135257
+492,492,Indigirskiy,993,Active,RS,Russia,143.7305382,66.43156664
+493,493,Anyuyskiy,1050,Potentially active,RS,Russia,165.1964889,67.16534516
+494,494,Ichinskaya,3631,Solfatara stage,RS,Russia,157.9143572,55.76506732
+495,495,Shiveluch,3395,Active,RS,Russia,161.5809011,56.78179701
+496,496,Blizn. and Daln. Plo,3943,Potentially active,RS,Russia,160.6309422,56.19844587
+497,497,Klyuchevskiy,4850,Active,RS,Russia,160.7809497,56.18178973
+498,498,Kamen',4575,Potentially active,RS,Russia,160.7476294,56.11511616
+499,499,Besym'anyy,2800,Active,RS,Russia,160.7142771,56.0651164
+500,500,Ostryy Tolbachik,3682,Potentially active,RS,Russia,160.4143014,55.94844574
+501,501,Ploskiy Tolbachik,3085,Active,RS,Russia,160.4642895,55.9317796
+502,502,Bol'shaya Udina,2923,Potentially active,RS,Russia,160.7476257,55.9317851
+503,503,Kizimen,2485,Active,RS,Russia,160.5310301,55.16511991
+504,504,Komarova,2070,Solfatara stage,RS,Russia,160.9643478,55.08178437
+505,505,Gamchen,2576,Solfatara stage,RS,Russia,160.9143494,54.99845566
+506,506,Kronotskiy,3528,Active,RS,Russia,160.714356,54.73178256
+507,507,Krasheninnikova,1857,Solfatara stage,RS,Russia,160.5977115,54.61511573
+508,508,Kikhpinych,1552,Solfatara stage,RS,Russia,160.48105,54.51511188
+509,509,Uzon,1617,Solfatara stage,RS,Russia,160.0810466,54.53177418
+510,510,Burlyashchiy,1000,Solfatara stage,RS,Russia,160.1144169,54.26510992
+511,511,Tsentralnyy Semyachi,1100,Solfatara stage,RS,Russia,160.0810765,54.26510925
+512,512,Malyy Semyachik,1571,Active,RS,Russia,159.8810759,54.11511214
+513,513,Karymskiy,1486,Active,RS,Russia,159.5977584,54.06509621
+514,514,Zhupanovskiy,2958,Active,RS,Russia,159.2811234,53.58176693
+515,515,Dzenzurskiy,2285,Active,RS,Russia,158.9144581,53.63175485
+516,516,Avachinskiy,2751,Active,RS,Russia,158.9978071,53.21509514
+517,517,Koryakskiy,3456,Active,RS,Russia,158.8978145,53.28176271
+518,518,Opala,2475,Active,RS,Russia,157.4478698,52.43173729
+519,519,Gorelyy Khrebet,1829,Active,RS,Russia,158.1145445,52.44842311
+520,520,Mutnovskiy,2324,Active,RS,Russia,158.2645098,52.34842076
+521,521,Ksudach,1079,Active,RS,Russia,157.5145471,51.83174536
+522,522,Zheltovskiy,1953,Active,RS,Russia,157.2812594,51.49841703
+523,523,Il'inskiy,1578,Active,RS,Russia,157.1145934,51.43174879
+524,524,Kambal'nyy,2156,Solfatara stage,RS,Russia,156.7646177,51.24840673
+525,525,Ebeko,1138,Active,RS,Russia,155.9313141,50.66506793
+526,526,Vernadskogo,1184,Solfatara stage,RS,Russia,155.9646436,50.5483981
+527,527,Chikurachki,1817,Active,RS,Russia,155.4646617,50.33172859
+528,528,Tatarinova,1530,Solfatara stage,RS,Russia,155.4480157,50.31505861
+529,529,Karpinskogo,1345,Active,RS,Russia,155.3646802,50.14839569
+530,530,Nemo,1019,Active,RS,Russia,154.8147109,49.56505956
+531,531,Krenitsyna,1325,Active,RS,Russia,154.7147145,49.36506837
+532,532,Sinarka,934,Active,RS,Russia,154.181418,48.88173008
+533,533,Kuntomintar,828,Active,RS,Russia,154.0147536,48.76506559
+534,534,Sarycheva,1497,Active,RS,Russia,153.1981283,48.09839742
+535,535,Submarine volcano,-150,Active, , ,153.3314424,48.08173294
+536,536,Submarine volcano,-2000,Active, , ,152.7648191,47.59840417
+537,537,Prevo,1360,Active,RS,Russia,152.1148425,47.01506804
+538,538,Zavaritskogo,624,Active,RS,Russia,151.9482069,46.94840497
+539,539,Goryashchaya Sopka,891,Active,RS,Russia,151.7482025,46.83173564
+540,540,Submarine volcano,0,Active, , ,150.8649144,46.49839814
+541,541,Trezubets,1017,Active,RS,Russia,150.1149268,46.06505995
+542,542,Berga,950,Active,RS,Russia,150.0816026,46.06506345
+543,543,Kolokol,1330,Potentially active,RS,Russia,150.0649254,46.04839664
+544,544,Kudryavyy,991,Active,RS,Russia,148.7983088,45.38172497
+545,545,Chirip,1564,Solfatara stage,RS,Russia,147.9149957,45.38171196
+546,546,Bogdan Khmelnitskiy,1540,Active,RS,Russia,147.9150122,45.33171737
+547,547,Baranskogo,1126,Active,RS,Russia,148.0316697,45.09839589
+548,548,Teben'kova,1212,Solfatara stage,RS,Russia,147.9150063,45.01506852
+549,549,Ivan Groznyy,1158,Active,RS,Russia,147.8650034,45.01506785
+550,550,Submarine volcano,-1350,Active, , ,147.231669,45.0650491
+551,551,Stokap,1566,Potentially active,RS,Russia,147.331679,44.8483931
+552,552,Berutarube,1222,Solfatara stage,RS,Russia,146.9317041,44.46506017
+553,553,Tyatya,1822,Active,RS,Russia,146.2483875,44.34839017
+554,554,Ruruy,1486,Solfatara stage,RS,Russia,146.1317182,44.44838335
+555,555,Mendeleyeva,890,Active,RS,Russia,145.6984082,43.89840002
+556,556,Golovnina,547,Active,RS,Russia,145.5484346,43.81506064
+557,557,Siretoko-Io Zan,1563,Active,JA,Japan,145.1651033,44.13171399
+558,558,Atosanupuri,574,Solfatara stage,JA,Japan,144.4317796,43.6150551
+559,559,Me-Akan,1503,Active,JA,Japan,144.0151075,43.38172345
+560,560,Daisetu,2290,Solfatara stage,JA,Japan,142.8818089,43.68170099
+561,561,Tokati,2077,Active,JA,Japan,142.6818231,43.41503739
+562,562,Iwaonupuri,1154,Solfatara stage,JA,Japan,140.6318793,42.88169401
+563,563,Tarumai,1024,Active,JA,Japan,141.3818519,42.68171699
+564,564,Usu,725,Active,JA,Japan,140.8318799,42.53171454
+565,565,Kuttara,581,Solfatara stage,JA,Japan,141.1818787,42.49838726
+566,566,Komaga Take,1140,Active,JA,Japan,140.6818999,42.06505941
+567,567,E-San,618,Active,JA,Japan,141.165233,41.79840982
+568,568,Osore Yama,879,Solfatara stage,JA,Japan,141.0819015,41.31510206
+569,569,Hakkoda,1585,Solfatara stage,JA,Japan,140.8819233,40.64845907
+570,570,Iwaki,1625,Active,JA,Japan,140.2986082,40.64845206
+571,571,Akita-Yake Yama,1366,Active,JA,Japan,140.765287,39.9651481
+572,572,Hatimantai,1614,Solfatara stage,JA,Japan,140.8486134,39.9484878
+573,573,Iwate,2041,Active,JA,Japan,140.9986061,39.84849195
+574,574,Akita-Komaga Take,1637,Active,JA,Japan,140.7986156,39.74849493
+575,575,Tyokai,2230,Active,JA,Japan,140.0486448,39.09851041
+576,576,Kurikoma,1628,Active,JA,Japan,140.7819687,38.94853198
+577,577,Narugo,461,Solfatara stage,JA,Japan,140.7319709,38.73187448
+578,578,Zao,1841,Active,JA,Japan,140.4153237,38.14856236
+579,579,Azuma,2024,Active,JA,Japan,140.2486628,37.73191683
+580,580,Adatara,1719,Active,JA,Japan,140.2820193,37.615254
+581,581,Bandai,1819,Active,JA,Japan,140.0153482,37.59858169
+582,582,Nasu,1917,Active,JA,Japan,139.9653387,37.11527943
+583,583,Nikko-Sirane,2578,Active,JA,Japan,139.3820288,36.79861607
+584,584,Akagi,1828,Active,JA,Japan,139.1987029,36.54863012
+585,585,Kusatu-Sirane,2176,Active,JA,Japan,138.5320592,36.61528552
+586,586,Asama,2542,Active,JA,Japan,138.5320629,36.39863685
+587,587,Myoko,2446,Solfatara stage,JA,Japan,138.115392,36.88193311
+588,588,Niigata-Yake Yama,2400,Active,JA,Japan,138.0320653,36.91526756
+589,589,Midagahara,2621,Solfatara stage,JA,Japan,137.565406,36.58194389
+590,590,Yake Dake,2455,Active,JA,Japan,137.5820897,36.21529445
+591,591,Norikura,3026,Solfatara stage,JA,Japan,137.5487519,36.11530544
+592,592,Haku San,2702,Active,JA,Japan,136.7821055,36.14863172
+593,593,On Take,3063,Solfatara stage,JA,Japan,137.4820908,35.89865244
+594,594,Fuji-san,3776,Active,JA,Japan,138.7320723,35.34868945
+595,595,Hakone,1348,Active,JA,Japan,139.015393,35.23202996
+596,596,Omuro Yama,581,Potentially active,JA,Japan,139.1154019,34.91538661
+597,597,Hatizyo Zima,854,Active,JA,Japan,139.7654087,33.13215934
+598,598,Submarine volcano,-1322,Active, , ,140.032093,32.28221548
+599,599,Submarine volcano,-1335,Active, , ,140.4987532,31.58226055
+600,600,Submarine volcano,-1200,Active, , ,139.4987743,31.49892601
+601,601,Submarine volcano,-997,Active, , ,140.1987573,31.49893484
+602,602,Submarine volcano,-2100,Active, , ,139.8987629,31.29894365
+603,603,Submarine volcano,-64,Active, , ,140.1154434,30.44900029
+604,604,Submarine volcano,-2900,Active, , ,139.9987821,30.09902115
+605,605,Submarine volcano,-2634,Active, , ,140.765475,25.99931612
+606,606,Submarine volcano,-3498,Active, , ,142.8154475,25.29938154
+607,607,Hukuzin'okano Ba,227,Active, , ,143.4321365,21.93297973
+608,608,Submarine volcano,-60,Active, , ,145.332147,15.0002361
+609,609,Submarine volcano,0,Active, , ,145.1321528,15.0835578
+610,610,Submarine volcano,-54,Active, , ,145.2488203,15.0002366
+611,611,Turumi,1375,Active,JA,Japan,131.4322621,33.28207423
+612,612,Kuzyu,1788,Active,JA,Japan,131.2489347,33.08208403
+613,613,Aso,1592,Active,JA,Japan,131.0989466,32.88209417
+614,614,Unzen,1360,Active,JA,Japan,130.2989642,32.74876471
+615,615,Kirisima,1700,Active,JA,Japan,130.8656251,31.93215546
+616,616,Sakura Zima,1118,Active,JA,Japan,130.6489601,31.58217433
+617,617,Kaimon Dake,924,Active,JA,Japan,130.5323132,31.18220077
+618,618,Submarine volcano,-390,Active, , ,130.1989913,29.89895374
+619,619,Submarine volcano,-100,Active, , ,129.8323332,29.64896829
+620,620,Submarine volcano,-100,Active, , ,122.4658755,26.18250759
+621,621,Submarine volcano,-100,Active, , ,122.3325529,25.41589894
+622,622,Ta Tung,1120,Solfatara stage,TW,Taiwan,121.5159003,25.16591248
+623,623,Submarine volcano,-200,Active, , ,123.9325261,24.56597525
+624,624,Submarine volcano,-3000,Active, , ,121.8325806,23.99933812
+625,625,Submarine volcano,-6000,Active, , ,134.748972,20.93299823
+626,626,Harrat ar Raha,1660,Potentially active,SA,Saudi Arabia,36.16802271,27.79926257
+627,627,Hala al Isqia,1700,Active,SA,Saudi Arabia,37.20133649,27.54927045
+628,628,Hala al Bedr,1500,Active,SA,Saudi Arabia,37.20133282,27.24929007
+629,629,Hala al Asi,1500,Potentially active,SA,Saudi Arabia,37.35132643,27.08263216
+630,630,Harrat al-Ithnayn,1625,Solfatara stage,SA,Saudi Arabia,39.967946,26.24934076
+631,631,Harrat al Khaybar,1829,Potentially active,SA,Saudi Arabia,39.25127139,25.16608743
+632,632,East Medina volcano,689,Active,SA,Saudi Arabia,39.5346008,24.49947012
+633,633,Harrat Lunayyir,0,Potentially active,SA,Saudi Arabia,37.41796965,24.86612623
+634,634,Jabal Yar,250,Active,YM,Yemen,42.86781125,15.93347599
+635,635,Khawlan Hattab,2900,Potentially active,YM,Yemen,44.08445593,15.63348977
+636,636,Jabal-Zebib,2950,Active,YM,Yemen,44.11779204,15.6001675
+637,637,Jabal al Mara,2650,Potentially active,YM,Yemen,44.21778272,15.28352782
+638,638,Jabal al Rabeke,1130,Potentially active,YM,Yemen,44.86777808,15.41683877
+639,639,Jabal Izbil,3500,Potentially active,YM,Yemen,44.61777846,14.6502468
+640,640,Jabal al Asi,3030,Solfatara stage,YM,Yemen,44.61776995,14.5169245
+641,641,Harras of Damar,2500,Active,YM,Yemen,44.41777175,14.41693433
+642,642,Jabal Hammam demt,1500,Solfatara stage,YM,Yemen,44.75110025,14.05029355
+643,643,Jabal-an-Nar,0,Solfatara stage,YM,Yemen,43.73444828,13.333696
+644,644,As Sawad,1737,Active,YM,Yemen,45.66774921,13.36701861
+645,645,Submarine volcano,0,Solfatara stage, , ,38.05126168,21.38305359
+646,646,Submarine volcano,0,Solfatara stage, , ,38.01792422,21.28305774
+647,647,Jabal Tair,244,Active, , ,41.73449662,15.70016318
+648,648,Submarine volcano,-1768,Active, , ,120.0493048,19.74969384
+649,649,Submarine volcano,-6100,Active, , ,131.8990342,19.31645622
+650,650,Submarine volcano,0,Active, , ,121.7492591,20.33298345
+651,651,Babuyan Claro,1160,Active,RP,Philippines,121.9492553,19.4997254
+652,652,Didicas,736,Active,RP,Philippines,121.8492616,18.84978374
+653,653,Cagua,1158,Active,RP,Philippines,122.1159282,18.19984092
+654,654,Submarine volcano,-2500,Active, , ,124.999204,16.00005883
+655,655,Jalajala,0,Solfatara stage,RP,Philippines,121.3326282,14.35019488
+656,656,Taal,300,Active,RP,Philippines,120.9993079,14.00022192
+657,657,Maquiling,1109,Solfatara stage,RP,Philippines,121.1992999,14.13354788
+658,658,Banahao,2177,Active,RP,Philippines,121.4826197,14.06688798
+659,659,Malinao,1657,Solfatara stage,RP,Philippines,123.5492484,13.40029219
+660,660,Mayon,2990,Active,RP,Philippines,123.6825769,13.25029975
+661,661,Pocdol Mountains,1099,Solfatara stage,RP,Philippines,123.8825701,13.03366076
+662,662,Bulusan,1559,Active,RP,Philippines,124.0492313,12.76702451
+663,663,Biliran,1187,Solfatara stage,RP,Philippines,124.5325543,11.51714195
+664,664,Casiboy,0,Solfatara stage,RP,Philippines,124.8992239,10.88386643
+665,665,Danan,0,Solfatara stage,RP,Philippines,124.8825542,10.88386543
+666,666,Kabalian,945,Solfatara stage,RP,Philippines,125.2158846,10.30059517
+667,667,Silay,1535,Solfatara stage,RP,Philippines,123.2325967,10.78386991
+668,668,Mandalagan,1879,Solfatara stage,RP,Philippines,123.2492597,10.65055379
+669,669,Canlaon,2465,Active,RP,Philippines,123.1325937,10.41724198
+670,670,Magaso,1904,Solfatara stage,RP,Philippines,123.1825981,9.267355437
+671,671,Calayo,1678,Active,RP,Philippines,124.6825684,7.834157659
+672,672,Ragang,2815,Active,RP,Philippines,124.5325778,7.717508678
+673,673,Latucan,2158,Solfatara stage,RP,Philippines,124.4659064,7.650848115
+674,674,Macuturing,1940,Solfatara stage,RP,Philippines,124.3159076,7.650841777
+675,675,Apo,2953,Solfatara stage,RP,Philippines,125.2659013,6.984244314
+676,676,Matutum,2293,Active,RP,Philippines,125.1158956,6.367639107
+677,677,Budd Dayo,399,Potentially active,RP,Philippines,121.2159801,5.984340199
+678,678,Erciyas Dagi,3770,Potentially active,TU,Turkey,35.48487718,38.51533188
+679,679,Nemrut,3050,Active,TU,Turkey,42.01808619,38.64857779
+680,680,Tendurek Dagi,3542,Solfatara stage,TU,Turkey,43.83473898,39.33185857
+681,681,Qollen-ye Damavand,5604,Solfatara stage,IR,Iran,52.11782413,35.94860684
+682,682,Taftan,4050,Solfatara stage,IR,Iran,61.60084813,28.59900355
+683,683,Bazman,3490,Solfatara stage,IR,Iran,60.00087637,28.0657187
+684,684,near the Kilis,0,Active,TU,Turkey,37.15148349,36.7653997
+685,685,As Safa,740,Potentially active,SY,Syria,37.21807885,33.03225688
+686,686,Pulau Weh,584,Solfatara stage,ID,Indonesia,95.33327375,5.884333344
+687,687,Seulawah Agam,1726,Active,ID,Indonesia,95.59992918,5.434370873
+688,688,Peuetsague,2780,Active,ID,Indonesia,96.33324875,4.934427653
+689,689,Geureudong,2590,Solfatara stage,ID,Indonesia,96.79990404,4.817773503
+690,690,Telong,2624,Active,ID,Indonesia,96.81656568,4.76777958
+691,691,Gayolesten,1500,Solfatara stage,ID,Indonesia,97.599879,3.86787098
+692,692,Sibayak,2094,Solfatara stage,ID,Indonesia,98.46652653,3.217935823
+693,693,Sinabung,2460,Solfatara stage,ID,Indonesia,98.39986213,3.167941736
+694,694,Pusuk Bukit,1981,Solfatara stage,ID,Indonesia,98.64985592,2.617996423
+695,695,Helatoba Tarutung,1100,Solfatara stage,ID,Indonesia,98.93318199,2.034720329
+696,696,Bual Buali,1819,Solfatara stage,ID,Indonesia,99.24984002,1.568101388
+697,697,Talakmau,2912,Solfatara stage,ID,Indonesia,99.96648927,-0.065071909
+698,698,Marapi,2891,Active,ID,Indonesia,100.4664768,-0.381702247
+699,699,Tandikat,2438,Active,ID,Indonesia,100.3164786,-0.431704341
+700,700,Talang,2896,Active,ID,Indonesia,100.6831384,-0.981648485
+701,701,Kerinci,3805,Active,ID,Indonesia,101.2664518,-1.698240536
+702,702,Sumbing,2508,Active,ID,Indonesia,101.7331081,-2.414841926
+703,703,Kunyit,2151,Solfatara stage,ID,Indonesia,101.6331116,-2.598151972
+704,704,Blerang Bereti,1959,Solfatara stage,ID,Indonesia,102.1831009,-2.814803806
+705,705,Bukit Daun,2467,Solfatara stage,ID,Indonesia,102.3664302,-3.381413425
+706,706,Kaba,1600,Active,ID,Indonesia,102.6164239,-3.51472638
+707,707,Dempo,3173,Active,ID,Indonesia,103.133074,-4.031349415
+708,708,Bukit Lumut Balai,2055,Solfatara stage,ID,Indonesia,103.5164034,-4.164666539
+709,709,Marga Bayur,1000,Solfatara stage,ID,Indonesia,103.6164069,-4.33132045
+710,710,Sekinciau Belirang,1719,Solfatara stage,ID,Indonesia,104.3163784,-5.114581402
+711,711,Pematang Bata,1000,Active,ID,Indonesia,104.2663845,-5.247900695
+712,712,Hulubelu,1040,Solfatara stage,ID,Indonesia,104.5997041,-5.347889206
+713,713,Radjabasa,1281,Solfatara stage,ID,Indonesia,105.6330116,-5.781183534
+714,714,Submarine volcano,-50,Active, , ,107.4162945,-0.964985679
+715,715,Pulosari,1346,Solfatara stage,ID,Indonesia,105.9830015,-6.347790985
+716,716,Karang,1778,Solfatara stage,ID,Indonesia,106.0496729,-6.264463948
+717,717,Kiarabares Gagak,1511,Active,ID,Indonesia,106.6496559,-6.731095396
+718,718,Perbakti,1699,Solfatara stage,ID,Indonesia,106.682988,-6.747758869
+719,719,Salak,2211,Active,ID,Indonesia,106.7329829,-6.714422083
+720,720,Gede,2958,Active,ID,Indonesia,106.9829767,-6.781086983
+721,721,Patuha,2434,Solfatara stage,ID,Indonesia,107.366313,-7.147716913
+722,722,Wayang Windu,2182,Solfatara stage,ID,Indonesia,107.6329614,-7.214379978
+723,723,Tangkuban Parahu,2084,Active,ID,Indonesia,107.5996296,-6.764419007
+724,724,Papandayan,2665,Active,ID,Indonesia,107.7329579,-7.314370822
+725,725,Kawa Manuk,2608,Solfatara stage,ID,Indonesia,107.7162874,-7.23104245
+726,726,Kawa Kamojang,1730,Solfatara stage,ID,Indonesia,107.7996295,-7.131052939
+727,727,Guntur,2249,Active,ID,Indonesia,107.3329738,-7.147715912
+728,728,Galunggung,2168,Active,ID,Indonesia,108.0496233,-7.247714262
+729,729,Talagabodas,2201,Solfatara stage,ID,Indonesia,108.0662847,-7.214383313
+730,730,Kawa Karaha,1155,Active,ID,Indonesia,108.0829554,-7.164382053
+731,731,Ciremay,3078,Active,ID,Indonesia,108.3996129,-6.897747138
+732,732,Slamet,3432,Active,ID,Indonesia,109.2162668,-7.247715262
+733,733,Butak Petarangan,2222,Active,ID,Indonesia,109.8329129,-7.181052031
+734,734,Dieng,2565,Active,ID,Indonesia,109.9162468,-7.197721507
+735,735,Sundoro,3150,Active,ID,Indonesia,109.9995726,-7.297706349
+736,736,Sumbing,3371,Active,ID,Indonesia,110.066236,-7.381031553
+737,737,Ungaran,2050,Solfatara stage,ID,Indonesia,110.3329078,-7.181054365
+738,738,Merbabu,3145,Active,ID,Indonesia,110.4329042,-7.447694784
+739,739,Merapi,2911,Active,ID,Indonesia,110.4495586,-7.547680627
+740,740,Lawu,3265,Solfatara stage,ID,Indonesia,111.1995405,-7.631012668
+741,741,Wilis,2563,Solfatara stage,ID,Indonesia,111.7661997,-7.814326382
+742,742,Kelud,1731,Active,ID,Indonesia,112.3161813,-7.930986371
+743,743,Arjuna and Welirang,3339,Solfatara stage,ID,Indonesia,112.5828383,-7.731006015
+744,744,Semeru,3676,Active,ID,Indonesia,112.9161577,-8.114304255
+745,745,Bromo,2329,Active,ID,Indonesia,112.9494982,-7.947654513
+746,746,Lamongan,1651,Active,ID,Indonesia,113.3494896,-7.997648436
+747,747,Argopuro,3088,Solfatara stage,ID,Indonesia,113.5661514,-7.964321822
+748,748,Raund,3332,Active,ID,Indonesia,114.0494779,-8.130965226
+749,749,Kawa Ijen,2386,Active,ID,Indonesia,114.2494702,-8.064304496
+750,750,Batur,1717,Active,ID,Indonesia,115.3827744,-8.247631385
+751,751,Agung,3142,Active,ID,Indonesia,115.4994404,-8.347620396
+752,752,Rindjani,3726,Active,ID,Indonesia,116.4660847,-8.414283795
+753,753,Tambora,2851,Active,ID,Indonesia,117.9993826,-8.247630218
+754,754,Sangeang Api,1949,Active,ID,Indonesia,119.0660233,-8.180973824
+755,755,Wai Sano,903,Solfatara stage,ID,Indonesia,120.0326685,-8.680932552
+756,756,Potjok Leok,1675,Solfatara stage,ID,Indonesia,120.4826554,-8.68092338
+757,757,Inerie,2245,Solfatara stage,ID,Indonesia,120.9493035,-8.864247934
+758,758,Inie Lika,1559,Active,ID,Indonesia,120.9826511,-8.730924806
+759,759,Ambulombo,2124,Active,ID,Indonesia,121.1826435,-8.814251677
+760,760,Pui,371,Active,ID,Indonesia,121.6492999,-8.847579624
+761,761,Sukariya Caldera,1500,Solfatara stage,ID,Indonesia,121.7659664,-8.797588371
+762,762,Ndetu Napu,750,Solfatara stage,ID,Indonesia,121.7826292,-8.714257664
+763,763,Keli Mutu,1640,Active,ID,Indonesia,121.832631,-8.764261425
+764,764,Egon,1703,Active,ID,Indonesia,122.4492786,-8.664264409
+765,765,Ili Muda,1100,Solfatara stage,ID,Indonesia,122.6659411,-8.480954197
+766,766,Lewotobi Laki Laki,1584,Active,ID,Indonesia,122.7826074,-8.53094495
+767,767,Lewotobi Perampuan,1703,Active,ID,Indonesia,122.7826074,-8.58094154
+768,768,Leroboleng,1117,Active,ID,Indonesia,122.8492713,-8.364295876
+769,769,Riang Cotang,200,Solfatara stage,ID,Indonesia,122.8992732,-8.297631978
+770,770,Ili Boleng,1659,Active,ID,Indonesia,123.2659342,-8.347629068
+771,771,Lewotolo,1319,Active,ID,Indonesia,123.4992592,-8.26430203
+772,772,Ili Labalekan,1018,Solfatara stage,ID,Indonesia,123.3825923,-8.530946118
+773,773,Ili Werung,1018,Active,ID,Indonesia,123.5825929,-8.530951454
+774,774,Sirung,862,Active,ID,Indonesia,124.1492457,-8.514283979
+775,775,Damar,868,Active,ID,Indonesia,128.6824855,-7.131077788
+776,776,Ambang,1795,Solfatara stage,ID,Indonesia,124.4159111,0.751516991
+777,777,Soputan,1784,Active,ID,Indonesia,124.7325703,1.118149589
+778,778,Sempu,1549,Solfatara stage,ID,Indonesia,124.7325703,1.151475369
+779,779,Batu Kolok,890,Solfatara stage,ID,Indonesia,124.7492399,1.168146847
+780,780,Tempang,900,Solfatara stage,ID,Indonesia,124.7992419,1.18480615
+781,781,Tampusu,1180,Solfatara stage,ID,Indonesia,124.8158965,1.251472717
+782,782,Lahendong,988,Solfatara stage,ID,Indonesia,124.7992417,1.284800498
+783,783,Sarangsong,770,Solfatara stage,ID,Indonesia,124.8159035,1.284796495
+784,784,Lokon Empung,1579,Active,ID,Indonesia,124.7992487,1.368121533
+785,785,Mahawu,1331,Active,ID,Indonesia,124.8659053,1.368125536
+786,786,Klabat,1995,Solfatara stage,ID,Indonesia,125.0325737,1.46811588
+787,787,Tongkoko,1149,Active,ID,Indonesia,125.1992343,1.518108134
+788,788,Submarine volcano,-3900,Active, , ,124.1659227,3.967874
+789,789,Dukono,1087,Active,ID,Indonesia,127.8658424,1.701426351
+790,790,Malupang Warirang,1115,Active,ID,Indonesia,127.8491728,1.668102573
+791,791,Ibu,1340,Active,ID,Indonesia,127.6325103,1.484778185
+792,792,Gamkunoro,1635,Active,ID,Indonesia,127.5158518,1.384789675
+793,793,Moti,690,Active,ID,Indonesia,127.3991853,-0.448364478
+794,794,Submarine volcano,-200,Active, , ,128.9991516,-0.298387883
+795,795,Alaid,2339,Active,RS,Russia,155.5249129,50.81643773
+796,796,Fussa,1772,Active,RS,Russia,155.2319888,50.23633997
+797,797,Atsonuripi,1205,Active,RS,Russia,147.1082358,44.77840394
+798,798,Smith Volcano,670,Active,RP,Philippines,121.9056772,19.53092151
+799,799,Awu,1320,Active,ID,Indonesia,125.6891975,3.64020439
+800,800,Todoko,979,Solfatara stage,ID,Indonesia,127.4708086,1.293231463
+801,801,Hilaya Lolowan,886,Active,ID,Indonesia,97.77669396,0.71011447
+802,802,G.Sorikmarapi,2145,Active,ID,Indonesia,100.3142135,-0.710960356
+803,803,Caniguin,580,Potentially active,RP,Philippines,124.6403835,9.18375556
+804,804,Catarman,1332,Active,RP,Philippines,124.6720758,9.245224694
+805,805,Ternate,1715,Active,ID,Indonesia,127.3110831,-0.790491841
+806,806,Doma Peakes,3567,Solfatara stage,PP,Papua New Guinea,143.1488814,-5.897882548
+807,807,Ielia,3385,Solfatara stage,PP,Papua New Guinea,145.8488484,-7.047791442
+808,808,Mt.Lamington,1780,Active,PP,Papua New Guinea,148.1655046,-8.930975373
+809,809,Musa,808,Solfatara stage,PP,Papua New Guinea,148.1321029,-9.297612641
+810,810,Mt.Victory,1928,Active,PP,Papua New Guinea,149.0654849,-9.197623797
+811,811,Goropu,540,Active,PP,Papua New Guinea,149.0654836,-9.564261398
+812,812,Jamelele,10,Solfatara stage,PP,Papua New Guinea,150.5320613,-9.514270479
+813,813,Day-Day,200,Active,PP,Papua New Guinea,150.8654614,-9.647593107
+814,814,Submarine volcano,-600,Active, , ,145.7488492,-4.414682677
+815,815,Karkar,1500,Active,PP,Papua New Guinea,145.9655506,-4.647996816
+816,816,Submarine volcano,0,Active, , ,146.2488418,-4.314694166
+817,817,Long Island,320,Active,PP,Papua New Guinea,147.0988335,-5.331273929
+818,818,Talo,1390,Solfatara stage,PP,Papua New Guinea,147.8821165,-5.597917684
+819,819,Submarine volcano,-2000,Active, , ,89.00009763,6.000985661
+820,820,Saddle Island,191,Active,YM,Yemen,42.16782514,15.08354963
+821,821,Barren Island,353,Active,IN,India,93.83331118,12.25035828
+822,822,Iles des Cendres,34,Active,VM,Vietnam,108.9995938,10.16724236
+823,823,Submarine volcano,0,Active,VM,Vietnam,109.0495881,9.83394054
+824,824,Krakatau,813,Active,ID,Indonesia,105.4163497,-6.097812372
+825,825,Batu Tara,748,Active,ID,Indonesia,123.5825942,-7.797676919
+826,826,Submarine volcano,0,Active,ID,Indonesia,123.9492478,-7.531033497
+827,827,Gunungapi,282,Active,ID,Indonesia,126.6492036,-6.647786702
+828,828,Submarine volcano,0,Active,ID,Indonesia,124.6825704,-6.59778711
+829,829,Submarine volcano,0,Active,ID,Indonesia,124.2159054,-6.614451918
+830,830,Teun,655,Active,ID,Indonesia,129.1324737,-6.914433959
+831,831,Nila,781,Active,ID,Indonesia,129.4991356,-6.73112408
+832,832,Serua,641,Active,ID,Indonesia,129.9991262,-6.297833753
+833,833,Manuk,282,Solfatara stage,ID,Indonesia,130.2991244,-5.531225601
+834,834,Banda Api,685,Active,ID,Indonesia,129.8824621,-4.531319317
+835,835,Iya,637,Active,ID,Indonesia,121.6405341,-8.880908738
+836,836,Paluweh,875,Active,ID,Indonesia,121.7159735,-8.314301288
+837,837,Submarine volcano,0,Active,ID,Indonesia,119.3493492,-8.514279309
+838,838,Asuncion,857,Active,CQ,Northern Mariana Islands,145.3987817,19.66651006
+839,839,Uracas,360,Active,CQ,Northern Mariana Islands,144.913126,20.5412907
+840,840,Agrihan,965,Active,CQ,Northern Mariana Islands,145.6654621,18.74991931
+841,841,North Pagan,570,Active,CQ,Northern Mariana Islands,145.7987953,18.13330243
+842,842,Alamagan,744,Solfatara stage,CQ,Northern Mariana Islands,145.8321234,17.60001742
+843,843,Guguan,287,Active,CQ,Northern Mariana Islands,145.8488029,17.31670836
+844,844,Anatahan,788,Solfatara stage,CQ,Northern Mariana Islands,145.665493,16.35011852
+845,845,Nisini Sima,0,Active,JA,Japan,140.8821288,27.2492247
+846,846,Kita-Io Zima,14,Active,JA,Japan,141.2321466,25.46602427
+847,847,Io Zims,165,Active,JA,Japan,141.3321426,24.74940771
+848,848,Sin-Io Zima,7,Active,JA,Japan,141.5154777,24.28277959
+849,849,Babuyan Claro,240,Active,RP,Philippines,122.1659111,19.08310122
+850,850,Qai Shan Tao,401,Solfatara stage,TW,Taiwan,121.9159025,24.84927281
+851,851,Peng Chia Su,129,Solfatara stage,TW,Taiwan,122.0658869,25.63254243
+852,852,Okinawa-Tori Sima,156,Active,JA,Japan,128.2490581,27.882416
+853,853,Suwanose Zima,799,Active,JA,Japan,129.7156681,29.53230046
+854,854,Nakano Sima,980,Active,JA,Japan,129.9156734,29.83228417
+855,855,Kutinoerabu Zima,649,Active,JA,Japan,130.2156475,30.43224842
+856,856,Tokara-Io Zima,717,Active,JA,Japan,130.2989858,30.78222355
+857,857,Tori Sima,403,Active,JA,Japan,140.3154361,30.48233307
+858,858,Submarine volcano,0,Active,JA,Japan,139.0321302,30.9989556
+859,859,Bayonnaise,9,Active,JA,Japan,139.9154324,31.91557004
+860,860,Aoga Sima,423,Active,JA,Japan,139.7654182,32.44887055
+861,861,Miyake Zima,815,Active,JA,Japan,139.5320776,34.08210222
+862,862,Kozi Sima,574,Active,JA,Japan,139.1487377,34.21542552
+863,863,Nii Zima,429,Active,JA,Japan,139.2654008,34.38208126
+864,864,O Sima,758,Active,JA,Japan,139.382062,34.73206156
+865,865,Brat Chirpoyev,752,Solfatara stage,RS,Russia,150.8148974,46.46506519
+866,866,Palassa,1002,Active,RS,Russia,152.4814932,47.34840221
+867,867,Caldera Ushishir,401,Active,RS,Russia,152.4815024,47.51506646
+868,868,Rasshua,956,Active,RS,Russia,153.0148088,47.76506942
+869,869,Raykoke,551,Active,RS,Russia,153.2481249,48.24840003
+870,870,Severgina,1144,Active,RS,Russia,154.4314071,49.04839216
+871,871,Kosheleva,1812,Active,RS,Russia,156.4645928,51.49840652
+872,872,Osima-O Sima,714,Active,JA,Japan,139.3652764,41.4984036
+873,873,Snow,400,Active,RS,Russia,150.88156,46.53173059
+874,874,Ekarma,1171,Active,RS,Russia,153.9480828,48.94839098
+875,875,Chernogo,624,Active,RS,Russia,150.8816971,46.53165754
+876,876,Chirinkotan,724,Active,RS,Russia,153.4814302,48.98171559
+877,877,Baitoushan,2744,Active,CH,China,128.0822124,42.03764502
+878,878,Jolo,0,Active,RP,Philippines,121.1684352,5.948735655
+879,879,Submarine volcano,0,Active,ID,Indonesia,125.499215,3.134621293
+880,880,Api Siau,1827,Active,ID,Indonesia,125.4825535,2.784657337
+881,881,Ruang,714,Active,ID,Indonesia,125.4325589,2.284699776
+882,882,Balut,883,Active,RP,Philippines,125.3825542,5.401067608
+883,883,Unauna,508,Active,ID,Indonesia,121.615976,-0.165064422
+884,884,Makian,1357,Active,ID,Indonesia,127.3991853,-0.315044185
+885,885,Umsini,2665,Active,ID,Indonesia,133.9990534,1.184813989
+886,886,Manam,1830,Active,PP,Papua New Guinea,145.0655563,-4.098043333
+887,887,Bam,600,Active,PP,Papua New Guinea,144.8488702,-3.59808694
+888,888,Sakar,998,Solfatara stage,PP,Papua New Guinea,148.0988187,-5.414602802
+889,889,Ritter,107,Active,PP,Papua New Guinea,148.1155114,-5.514593314
+890,890,Dobu,274,Solfatara stage,PP,Papua New Guinea,150.8654611,-9.747587287
+891,891,Mt.Melbourne,2590,Solfatara stage,AY,Antarctica,164.6949653,-74.28108532
+892,892,Mt.Morning,2723,Solfatara stage,AY,Antarctica,163.5265241,-78.46591119
+893,893,Mt.Erebus,3743,Active,AY,Antarctica,167.1436175,-77.49279858
+894,894,Mt.Berlin,3498,Solfatara stage,AY,Antarctica,-143.5049368,-75.99879842
+895,895,Mt.Hampton,3323,Solfatara stage,AY,Antarctica,-125.8038245,-76.43613896
+896,896,Deception,602,Active,AY,Antarctica,-60.63193624,-62.65944252
+897,897,Bridgeman,240,Solfatara stage,AY,Antarctica,-56.66513407,-61.74831937
+898,898,Kristensen Mount,274,Solfatara stage,AY,Antarctica,-59.56510573,-64.86974154
+899,899,Lindenberg,0,Active,AY,Antarctica,-59.69845454,-64.68164749
+900,900,Thule Island,820,Solfatara stage,SX,South Georgia and the South Sandwich Islands,-27.31425762,-59.03806895
+901,901,Bellingshausen,244,Active,SX,South Georgia and the South Sandwich Islands,-27.04758251,-59.00343268
+902,902,Darnley,1097,Active,SX,South Georgia and the South Sandwich Islands,-26.49759684,-58.62228663
+903,903,Mt.Michael,850,Active,SX,South Georgia and the South Sandwich Islands,-26.44768347,-57.30287403
+904,904,Vindication,425,Solfatara stage,SX,South Georgia and the South Sandwich Islands,-26.66440218,-56.57183507
+905,905,Candlemas,786,Active,SX,South Georgia and the South Sandwich Islands,-26.68106565,-56.53698233
+906,906,Mt.Hodson,915,Solfatara stage,SX,South Georgia and the South Sandwich Islands,-27.19776874,-56.17091909
+907,907,Leskov Island,183,Solfatara stage,SX,South Georgia and the South Sandwich Islands,-28.16446182,-56.13604534
+908,908,Zavadovski,488,Active,SX,South Georgia and the South Sandwich Islands,-27.58112835,-55.78702364
+909,909,Submarine volcano,0,Active,SX,South Georgia and the South Sandwich Islands,-28.08116396,-55.35030866
+910,910,Buckle Island,1239,Solfatara stage,AY,Antarctica,163.0849102,-66.53822703
+911,911,Sturge Island,1524,Solfatara stage,AY,Antarctica,164.7543765,-67.25383146
+912,912,Freeman,3650,Solfatara stage,AY,Antarctica,162.5257605,-66.22368517
+913,913,Heard,0,Active,HM,Heard Island & McDonald Islands,73.50079302,-53.09590758
+914,914,Kerguelen,1960,Solfatara stage,FS,French Southern & Antarctic Lands,68.60089072,-48.59584275
+915,915,Saint Paul,1750,Active,FS,French Southern & Antarctic Lands,77.50048803,-38.69580383
