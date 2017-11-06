@@ -1,3 +1,8 @@
+#reduced version without the GeoJSON file. This program creates two Feature Groups or tabs, adding markers on each volcano
+#location. One of the FGs adds the marker, colored according to the volcano height and the other one, colored depending on 
+#the volcano's type.
+
+
 import folium
 import pandas
 
